@@ -21,13 +21,14 @@
     padding-left: 30px;
     color: #fff;
     z-index: 1;
+    font-size: 25px;
 }
 
 .header__menu,
 .header__menu-mobile {
     padding: 20px;
     display: flex;
-    flex: 1.235;
+    flex: 1.236;
     justify-content: flex-end;
     gap: 64px;
     list-style: none;
